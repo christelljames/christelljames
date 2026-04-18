@@ -1,7 +1,7 @@
 ## Christell James Cellose
 **Full Stack Data Scientist | ML Engineer | Cloud Architect**
 
-Versatile Full Stack Data Scientist and AI/ML Engineer with a proven track record of architecting scalable solutions across diverse business domains. Highly adaptable to complex data ecosystems, rapidly translating unstructured and structured data into strategic value. Blends end-to-end technical execution—from data pipelines to cloud deployment—with strong business acumen to deliver high-impact, actionable insights.
+A passionate Full Stack Data Scientist and AI/ML Engineer with a proven track record of architecting scalable solutions across diverse business domains. Highly adaptable to any complex data ecosystem, rapidly translating unstructured and structured data into strategic value. Blends end to end technical execution from data pipelines to cloud deployment with strong business acumen storytelling to deliver high-impact and actionable insights.
 
 ### Current Focus
 * **Architecting:** Enterprise Machine Learning and Deep Learning propensity models on GCP to maximize ROI and lower acquisition costs.
